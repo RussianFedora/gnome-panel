@@ -25,7 +25,7 @@ Name: gnome-panel
 Version: 2.30.2
 Release: 5.el6.1.R
 URL: http://www.gnome.org
-Source0: http://download.gnome.org/sources/gnome-panel/2.28/%{name}-%{version}.tar.bz2
+Source0: http://download.gnome.org/sources/gnome-panel/2.30/%{name}-%{version}.tar.bz2
 
 Source3: redhat-panel-default-setup.entries
 Source4: gnome-compiler-flags.m4
